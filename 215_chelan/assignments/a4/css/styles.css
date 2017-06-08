@@ -1,0 +1,75 @@
+/*
+Maryanne Derige
+Date Created or Modified: 1/21/17
+http://chelan.highline.edu/~maryannederige/215/css/styles.css
+*/
+
+body {
+	background-color: gray
+}
+
+header {
+    font-family: Verdana;
+    color: white;
+    background-color: black;
+    clear: left;
+    text-align: center;
+}
+
+div {
+	font-family: Verdana;
+}
+.container {
+    width: 100%;
+    border: 1px solid black;
+}
+
+footer {    
+    color: white;
+    background-color: black;
+    clear: left;
+    text-align: center;
+}
+
+nav {
+    float: left;
+    max-width: 350px;
+    margin: 0;
+    padding: 16px;
+	border-right: 1px solid black;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+   
+nav ul a {
+    text-decoration: none;
+}
+
+nav p {
+	margin-top: 110px;
+	text-decoration: none;
+}
+
+section {
+	font-family: Verdana;
+}
+
+article {
+    margin-left: 170px;
+    padding: 16px;
+    overflow: hidden;
+	font-family: Verdana;
+}
+
+input[type=submit] {
+	font-size: 25px;
+
+}
+
+fieldset {
+	font-size: 20px;
+	font-family: Verdana;
+}

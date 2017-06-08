@@ -1,0 +1,204 @@
+/*
+Maryanne Derige
+Date Created or Modified: 3-5-2017
+http://chelan.highline.edu/~maryannederige/215/css/assignmentStyles.css
+*/
+
+h2 {
+	text-align: center;
+	font-size: 45px;
+}
+body {
+	background-color: gray;
+}
+.title {
+	text-align: center;
+	font-size: 45px;
+	
+}
+#summary {
+	border-style: solid;
+	width: 30%;
+    margin: auto;
+    padding: 10px;
+	text-align: center;
+}
+#instructions {
+	text-align: center;	
+	width: 52%;
+	margin: auto;
+	
+}
+.searchForm {
+	text-align: center;
+	width: 50%;
+	background-color: gray;
+	padding-top: 10px;
+	padding-left: 10px;
+	padding-right: 10px;
+	margin: auto;
+	padding-bottom: 10px;
+	border: 0px solid black;
+	border-radius: 5px;
+}
+form {
+	display: inline-block;
+	width: auto;
+	background-color: gray;
+	padding-top: 10px;
+	padding-left: 10px;
+	padding-right: 10px;
+	margin: auto;
+	padding-bottom: 10px;
+	border: 2px solid black;
+	border-radius: 5px;
+}
+.form_deleteButton {
+        width: 50%;
+	background-color: gray;
+	padding-top: 10px;
+	padding-left: 10px;
+	padding-right: 10px;
+	margin: auto;
+	padding-bottom: 10px;
+	border: 0px solid black;
+	border-radius: 5px;
+}
+label {
+	font-weight: 200;
+}
+select {
+	font-size: 20px;
+}
+
+textarea {
+	font-size: 20px;
+}
+
+input[type=submit] {
+	font-size: 23px;
+}
+
+#reloadButton {
+	width: 70px;
+	height: 35px;
+	font-size: 15px;
+}
+
+input[type=text] {
+	font-size: 20px;
+}
+
+fieldset {
+	font-size: 25px;
+	font-family: Verdana;
+}
+
+header {
+    font-family: Verdana;
+    color: white;
+    background-color: black;
+    clear: left;
+    text-align: center;
+}
+
+a	{
+	color:white;
+	text-decoration: none;
+	font-family: Verdana;
+}
+
+a:visited{color: white;}
+
+div {
+	font-family: Verdana;
+}
+
+footer {    
+    color: white;
+    background-color: black;
+    clear: left;
+    text-align: center;
+}
+
+nav {
+    float: left;
+    max-width: 350px;
+    margin: 0;
+    padding: 16px;
+	border-right: 1px solid black;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+   
+nav ul a {
+    text-decoration: none;
+}
+
+nav p {
+	margin-top: 110px;
+	text-decoration: none;
+}
+
+.tblcustomerInfo {
+	border: 1px solid black;
+	text-align: left;
+	border-spacing: 5px;
+	padding: 5px;
+}
+
+table {
+	table-layout: fixed;
+	width: 60%;
+	margin-left: auto;
+	margin-right: auto;
+}
+td, th {
+	border: 1px solid black;
+	text-align: center;
+	border-spacing: 5px;
+	padding: 5px;
+}
+.big-image {
+	width: 35%;
+	height: 35%;
+}
+.row-image {
+	width: 40%;
+}
+.row-name {
+	width: 20%;
+}
+.row-description {
+	width: 30%;
+}
+.row-price {
+	width: 10%;
+}
+section {
+	font-family: Verdana;
+	text-align: center;
+}
+
+article {
+    margin-left: 170px;
+    padding: 16px;
+    overflow: hidden;
+	font-family: Verdana;
+}
+
+.error {
+	color: #9e0b0f;
+	font-size: 20px;
+}
+.success {
+	color: green;
+	font-size: 20px;
+}
+
+.highlight {
+	color: blue;
+}

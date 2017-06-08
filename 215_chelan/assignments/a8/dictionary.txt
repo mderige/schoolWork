@@ -1,0 +1,13 @@
+HTML, "Hypertext Markup Language, a standardized system for tagging text files to achieve font, color, graphic, and hyperlink effects on World Wide Web pages."
+Cascading Style Sheets, "(CSS) is a style sheet language used for describing the presentation of a document written in a markup language."
+Client, A client is a piece of computer hardware or software that accesses a service made available by a server. 
+Server, "A computer designed to process requests and deliver data to other (client) computers over a local network or the internet. Although any computer running special software can function as a server, the most typical use of the word references the very large, high-powered machines that function as the pumps pushing and pulling data across the internet."
+PHP, "PHP (recursive acronym for PHP: Hypertext Preprocessor) is a widely-used open source general-purpose scripting language that is especially suited for web development and can be embedded into HTML."
+JavaScript,"An object-oriented computer programming language commonly used to create interactive effects within web browsers."
+jQuery,"jQuery is a fast and concise JavaScript Library created by John Resig in 2006 with a nice motto − Write less, do more. jQuery simplifies HTML document traversing, event handling, animating, and Ajax interactions for rapid web development."
+Linux,"An open-source operating system modeled on UNIX."
+AJAX,"AJAX stands for Asynchronous JavaScript and XML. AJAX is a new technique for creating better, faster, and more interactive web applications with the help of XML, HTML, CSS, and Java Script. Ajax uses XHTML for content, CSS for presentation, along with Document Object Model and JavaScript for dynamic content display."
+"Object Oriented Programming","Object-oriented programming (OOP) refers to a type of computer programming (software design) in which programmers define not only the data type of a data structure, but also the types of operations (functions) that can be applied to the data structure."
+API,"Application program interface (API) is a set of routines, protocols, and tools for building software applications. An API specifies how software components should interact. Additionally, APIs are used when programming graphical user interface (GUI) components."
+Browser,"A web browser (commonly referred to as a browser) is a software application for retrieving, presenting and traversing information resources on the World Wide Web."
+ASP.NET,"ASP.NET is an open source web framework for building modern web apps and services with .NET. ASP.NET creates websites based on HTML5, CSS, and JavaScript that are simple, fast, and can scale to millions of users."

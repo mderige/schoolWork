@@ -1,0 +1,5 @@
+Porsche Bike;A bike with a brand name!;10,000;bike.jpg
+Pretty Shoes;Come to our shoe store;54.45;shoes.jpg
+Pie Fest;Oh yeah this is officially the best pie ever;3.45;pie.jpg
+Inside Out Umbrella;Designer Umbrellas for low cost;14.55;umbrella.jpg
+Coffee;Come get your morning dessert;4.59;coffee.jpg 
